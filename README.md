@@ -2,10 +2,18 @@
 Blackjack Game 
 
 ## Key Objectives
+- The dealer plays conservatively and would not draw a card when close to 21.   
+- The dealer makes intelligent decisions based on the player's hand. 
+
 
 ## The Results
-![image](https://github.com/frantzalexander/blackjack/assets/128331579/870dcbe6-8000-4946-89f3-d57415215fe9)
 
+
+
+The Graphic User Interface:
+
+
+![image](https://github.com/frantzalexander/blackjack/assets/128331579/e29b2424-cf0d-4d8e-af5a-a492f9c01cbf)
 
 ## The Process
 ```mermaid
