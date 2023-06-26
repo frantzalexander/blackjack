@@ -1,5 +1,14 @@
 # blackjack
-Blackjack Game 
+## Blackjack Game Overview
+The rules:
+- Each numbered card represents their face value. 
+- The royal suits: Jack, Queen and King are valued as 10. 
+- The Ace is valued as either a 1 or 11 depending on the sum of the hand.
+- If the sum is at or under 21, then the ace is valued as 11.
+- 
+
+To win:
+The objective is to get as close to 21 as
 
 ## Key Objectives
 - The dealer plays conservatively and would not draw a card when close to 21.   
