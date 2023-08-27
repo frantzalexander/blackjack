@@ -35,7 +35,7 @@ flowchart TD
     choice[Computer chooses 2 cards for both the dealer and player]
     calculate[Calculate the total for each player]
     display[Display the 1 card from the dealers hand and both of the player's cards]
-    player_choice{Player choice: dealt an extra card or stay}
+    player_choice{Player choice: Deal an extra card or stay}
     player_deal1[Player recieves an extra card]
     player_deal2[Calculate the sum of cards]
     player_check{Is the sum <= 21?}
